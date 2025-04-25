@@ -1,4 +1,4 @@
-<img src="./arlexdev_github_profile.png" alt="GitHub Profile" height="25" />
+[![GitHub Profile](https://github.com/arlexdev/arlexdev_github_profile.png)](https://github.com/arlexdev)
 
 ###
 
