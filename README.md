@@ -1,4 +1,4 @@
-[![GitHub Profile](https://github.com/arlexdev/arlexdev_github_profile.png)](https://github.com/arlexdev)
+![https://github.com/arlexdev](./arlexdev_github_profile.png)
 
 ###
 
