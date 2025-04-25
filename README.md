@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Hola, soy Arlexdev 👋</h1>
+<h1 align="center">Hola, soy arlexdev 👋</h1>
 
 ###
 
