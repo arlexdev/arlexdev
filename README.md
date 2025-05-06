@@ -36,6 +36,6 @@
 
 ###
 
-<p align="left">Soy un desarrollador Full Stack en constante crecimiento, egresado de la carrera de Ingeniería de Sistemas. Me apasiona la tecnología, el desarrollo web y la ciberseguridad. Mi enfoque es mantenerme actualizado con las últimas tendencias tecnológicas y aprender algo nuevo cada día.<br><br>- 🎓 Egresado de Ingeniería de Sistemas por la Universidad Tecnológica Boliviana.<br>- 🌐 Participante activo en el programa Oracle ONE & Alura Latam.<br>- ⚡ Me encanta trabajar en proyectos que resuelvan problemas reales.</p>
+<p align="left">Soy un desarrollador Full Stack en constante crecimiento, egresado de la carrera de Ingeniería de Sistemas. Me apasiona la tecnología, el desarrollo web y la ciberseguridad. Mi enfoque es mantenerme actualizado con las últimas tendencias tecnológicas y aprender algo nuevo cada día.</p>
 
 ###
